@@ -1,2 +1,5 @@
 # Arduino
-Arduino youtube video kodları
+Arduino youtube video kodları...
+$yapilis semasi ve kodalari basliklarina gore bulabilirsiniz....
+$anlamadiginiz yerleri sormayi unutmayin 
+$tesekkurler
