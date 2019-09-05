@@ -4,7 +4,7 @@ int ledPin=13;
 void setup() {
   Serial.begin(9600);//serial monutoru baslattik
   pinMode(motorPin,OUTPUT);//cikis pinlerimizi atadik.
-  pinMode(ledPin,INPUT);
+  pinMode(ledPin,OUTPUT);
 }
 
 void loop() {
@@ -13,6 +13,6 @@ void loop() {
 
   Serial.println(yeniDeger);//degeri gormek icin yazdirdik
   delay(250);//gecikme payi 
-  digitalWrite(ledPin,potDeger);//ledimizi pot degerine gore yaktik
+  analogWrite(ledPin,potDeger);//ledimizi pot degerine gore yaktik
   analogWrite(motorPin,yeniDeger);//motoru ise yeni degerimize gore calistirdik.
 }
