@@ -3,4 +3,4 @@
 ---Yapılış şeması(png olarak),fritzing şeması ve kodları başlıklarına göre erişebilirisiniz.
 ----Anlamadığınız yerleri buradan veya youtube kanalımızdan sorabilirsiniz.
 -----Teşekkürler.
-youtube.com/c/ElektronikOfisim
+https://www.youtube.com/channel/UCV20jz-U_zeOOamjZvtELcw?view_as=subscriber
